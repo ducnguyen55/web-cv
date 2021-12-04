@@ -172,7 +172,7 @@ function App() {
                 <div className="info">
                   <p className="semi-bold">University of Information Technology</p>
                   <p>
-                    Major : Information Systemaaaaa
+                    Major : Information Systemtesttttttttttt
                   </p>
                 </div>
               </li>
