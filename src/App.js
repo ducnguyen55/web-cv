@@ -20,7 +20,7 @@ function App() {
                 <li>
                   <div className="icon"><i class="fas fa-map-signs"></i></div>
                   <div className="data">
-                    103 Lê Quyên, Phường 5, Quận 8 <br/> TPHCM
+                    103 Lê Quyên, Phường 5, Quận 8 <br/> TPHCMaaaaaa
                   </div>
                 </li>
                 <li>
